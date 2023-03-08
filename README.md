@@ -1,5 +1,5 @@
 # Product Landing Page
-One Of The FreeCodeCamp Responsive Web Design Certificate Project
+One Of The FreeCodeCamp Responsive Web Design Certificate Projects
 
 ## User Stories:
 1. Your product landing page should have a header element with a corresponding id="header"
