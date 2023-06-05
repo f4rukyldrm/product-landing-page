@@ -17,6 +17,3 @@ One Of The FreeCodeCamp Responsive Web Design Certificate Projects
 13. The navbar should always be at the top of the viewport
 14. Your product landing page should have at least one media query
 15. Your product landing page should utilize CSS flexbox at least once
-
-## Live
-[codepen.io](https://codepen.io/f4rukyldrm/full/LYJzJbE)
